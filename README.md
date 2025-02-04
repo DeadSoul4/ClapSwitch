@@ -1,1 +1,2 @@
 # ClapSwitch
+This repository contains the PCB design for a Clap Switch circuit, which uses a microphone sensor, microcontroller, and relay to turn a device on or off based on the sound of a clap. Designed in EasyEDA, it includes both the schematic and PCB layout, and the code for an Arduino (or compatible microcontroller) is provided to process the sound signal and control the relay. The design is compact and easy to fabricate, with Gerber files available for manufacturing. This project is ideal for learning about sound-based control systems and PCB design.
